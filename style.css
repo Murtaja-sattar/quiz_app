@@ -1,0 +1,20 @@
+main a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(192, 201, 238);
+    border-radius: 20px;
+    padding: 20px 60px;
+    margin-bottom: 30px;
+    color: black;
+    text-decoration: none;
+    font-weight: 500;
+    box-shadow: 10px 10px black;
+    width: 400px;
+    transition: 0.7s ease;
+}
+
+main a:hover {
+    transform: scale(1.05);
+    cursor: pointer;
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is the primary organ involved in filtering blood?",
+    "options": ["Heart", "Liver", "Kidney", "Lung"],
+    "answer": "Kidney"
+  },
+  {
+    "question": "Which instrument is commonly used to hold back tissue during surgery?",
+    "options": ["Scalpel", "Retractor", "Suction", "Clamp"],
+    "answer": "Retractor"
+  },
+  {
+    "question": "What is the name of the sterile environment in which surgeries are performed?",
+    "options": ["ICU", "ER", "Ward", "Operating Room"],
+    "answer": "Operating Room"
+  },
+  {
+    "question": "Which artery is commonly used to check a pulse in surgery?",
+    "options": ["Jugular", "Femoral", "Radial", "Brachial"],
+    "answer": "Radial"
+  },
+  {
+    "question": "What is used to close a surgical wound?",
+    "options": ["Retractor", "Sponge", "Suture", "Clamp"],
+    "answer": "Suture"
+  },
+  {
+    "question": "Which imaging technique is used during surgery to see internal organs?",
+    "options": ["Ultrasound", "X-ray", "CT", "MRI"],
+    "answer": "Ultrasound"
+  },
+  {
+    "question": "Which surgical procedure removes the appendix?",
+    "options": ["Laparoscopy", "Appendectomy", "Cholecystectomy", "Colonoscopy"],
+    "answer": "Appendectomy"
+  },
+  {
+    "question": "What color are surgical drapes typically?",
+    "options": ["Blue", "White", "Red", "Green"],
+    "answer": "Blue"
+  },
+  {
+    "question": "Which organ is removed during a cholecystectomy?",
+    "options": ["Gallbladder", "Liver", "Spleen", "Appendix"],
+    "answer": "Gallbladder"
+  },
+  {
+    "question": "Which of the following is a risk of surgery?",
+    "options": ["Infection", "Improved health", "Weight loss", "Increased energy"],
+    "answer": "Infection"
+  },
+  {
+    "question": "What is the medical term for stopping bleeding?",
+    "options": ["Anastomosis", "Hemostasis", "Suturing", "Ligation"],
+    "answer": "Hemostasis"
+  },
+  {
+    "question": "Which gas is commonly used to inflate the abdomen during laparoscopy?",
+    "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "question": "What does a scalpel do?",
+    "options": ["Clamp blood vessels", "Cut tissue", "Retract skin", "Disinfect area"],
+    "answer": "Cut tissue"
+  },
+  {
+    "question": "Which specialist performs brain surgery?",
+    "options": ["Cardiologist", "Neurosurgeon", "Orthopedic", "Anesthesiologist"],
+    "answer": "Neurosurgeon"
+  },
+  {
+    "question": "What is the surgical removal of the tonsils called?",
+    "options": ["Appendectomy", "Tonsillectomy", "Tracheostomy", "Laryngectomy"],
+    "answer": "Tonsillectomy"
+  },
+  {
+    "question": "What is the purpose of using anesthesia?",
+    "options": ["Increase pain", "Cause infection", "Prevent bleeding", "Prevent pain"],
+    "answer": "Prevent pain"
+  },
+  {
+    "question": "What does the term 'laparotomy' refer to?",
+    "options": ["Removal of the spleen", "Incision into the abdomen", "Examination of the lungs", "Brain biopsy"],
+    "answer": "Incision into the abdomen"
+  },
+  {
+    "question": "Which type of suture dissolves in the body over time?",
+    "options": ["Staples", "Nylon", "Silk", "Absorbable"],
+    "answer": "Absorbable"
+  },
+  {
+    "question": "What is a Foley catheter used for?",
+    "options": ["Administering anesthesia", "Draining urine", "Injecting contrast", "Closing wounds"],
+    "answer": "Draining urine"
+  },
+  {
+    "question": "What is a common antiseptic used before surgery?",
+    "options": ["Chlorhexidine", "Saline", "Alcohol", "Lidocaine"],
+    "answer": "Chlorhexidine"
+  }
+]

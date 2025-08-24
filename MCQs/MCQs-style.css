@@ -1,0 +1,75 @@
+main {
+    padding: 20px 20px 30px 20px;
+}
+
+.Qs-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.Qs-buttons div {
+    display: flex;
+    align-items: center;
+}
+
+.Qs-buttons button {
+    color: rgb(255, 255, 255);
+    background-color: rgb(131, 151, 232);
+    font-size: 22px;
+    padding: 10px 20px;
+    border-radius: 20px;
+    transition: 0.5s;
+    box-shadow: 5px 5px black;
+}
+
+.Qs-buttons button:hover{
+    transform: scale(1.03);
+    color: rgb(0, 0, 0);
+}
+
+#Q-number {
+    color: black;
+    font-size: 25px;
+    margin-left: 30px;
+}
+
+article {
+    margin-top: 20px;
+    width: 70%;
+    align-items: center;
+    justify-content: center;
+}
+
+article p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+section {
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+}
+
+section ul li {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    min-width: 450px;
+    margin-top: 20px;
+    background-color: rgb(109, 115, 139);
+    padding: 15px 30px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    font-weight: 500;
+    transition: 0.5s;
+    box-shadow: 5px 5px black;
+}
+
+section ul li:hover {
+    transform: scale(1.02);
+    cursor: pointer;
+}
