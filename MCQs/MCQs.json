@@ -2,101 +2,122 @@
   {
     "question": "What is the primary organ involved in filtering blood?",
     "options": ["Heart", "Liver", "Kidney", "Lung"],
-    "answer": "Kidney"
+    "answer": "Kidney",
+    "explanation": "The kidneys filter waste products and excess fluids from the blood to form urine, making them the primary filtering organ."
   },
   {
     "question": "Which instrument is commonly used to hold back tissue during surgery?",
     "options": ["Scalpel", "Retractor", "Suction", "Clamp"],
-    "answer": "Retractor"
+    "answer": "Retractor",
+    "explanation": "A retractor is used to hold back tissue or organs to provide better visibility and access during surgery."
   },
   {
     "question": "What is the name of the sterile environment in which surgeries are performed?",
     "options": ["ICU", "ER", "Ward", "Operating Room"],
-    "answer": "Operating Room"
+    "answer": "Operating Room",
+    "explanation": "An operating room is a sterile environment specifically designed for performing surgical procedures safely."
   },
   {
     "question": "Which artery is commonly used to check a pulse in surgery?",
     "options": ["Jugular", "Femoral", "Radial", "Brachial"],
-    "answer": "Radial"
+    "answer": "Radial",
+    "explanation": "The radial artery at the wrist is easily accessible and commonly used to monitor a patient's pulse."
   },
   {
     "question": "What is used to close a surgical wound?",
     "options": ["Retractor", "Sponge", "Suture", "Clamp"],
-    "answer": "Suture"
+    "answer": "Suture",
+    "explanation": "Sutures are stitches that hold tissue together to promote proper healing of surgical wounds."
   },
   {
     "question": "Which imaging technique is used during surgery to see internal organs?",
     "options": ["Ultrasound", "X-ray", "CT", "MRI"],
-    "answer": "Ultrasound"
+    "answer": "Ultrasound",
+    "explanation": "Ultrasound uses sound waves to provide real-time imaging of internal organs during surgery."
   },
   {
     "question": "Which surgical procedure removes the appendix?",
     "options": ["Laparoscopy", "Appendectomy", "Cholecystectomy", "Colonoscopy"],
-    "answer": "Appendectomy"
+    "answer": "Appendectomy",
+    "explanation": "An appendectomy is the surgical removal of the appendix, typically due to inflammation or infection."
   },
   {
     "question": "What color are surgical drapes typically?",
     "options": ["Blue", "White", "Red", "Green"],
-    "answer": "Blue"
+    "answer": "Blue",
+    "explanation": "Surgical drapes are often blue because the color reduces eye strain and provides contrast against blood."
   },
   {
     "question": "Which organ is removed during a cholecystectomy?",
     "options": ["Gallbladder", "Liver", "Spleen", "Appendix"],
-    "answer": "Gallbladder"
+    "answer": "Gallbladder",
+    "explanation": "A cholecystectomy is a surgical procedure to remove the gallbladder, often due to gallstones."
   },
   {
     "question": "Which of the following is a risk of surgery?",
     "options": ["Infection", "Improved health", "Weight loss", "Increased energy"],
-    "answer": "Infection"
+    "answer": "Infection",
+    "explanation": "Infection is a common risk of surgery due to the exposure of internal tissues to external contaminants."
   },
   {
     "question": "What is the medical term for stopping bleeding?",
     "options": ["Anastomosis", "Hemostasis", "Suturing", "Ligation"],
-    "answer": "Hemostasis"
+    "answer": "Hemostasis",
+    "explanation": "Hemostasis refers to the process of stopping bleeding, either naturally or through surgical means."
   },
   {
     "question": "Which gas is commonly used to inflate the abdomen during laparoscopy?",
     "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
-    "answer": "Carbon Dioxide"
+    "answer": "Carbon Dioxide",
+    "explanation": "Carbon dioxide is used to inflate the abdomen because it is non-flammable and quickly absorbed by the body."
   },
   {
     "question": "What does a scalpel do?",
     "options": ["Clamp blood vessels", "Cut tissue", "Retract skin", "Disinfect area"],
-    "answer": "Cut tissue"
+    "answer": "Cut tissue",
+    "explanation": "A scalpel is a small, sharp instrument specifically designed for cutting tissue during surgery."
   },
   {
     "question": "Which specialist performs brain surgery?",
     "options": ["Cardiologist", "Neurosurgeon", "Orthopedic", "Anesthesiologist"],
-    "answer": "Neurosurgeon"
+    "answer": "Neurosurgeon",
+    "explanation": "A neurosurgeon is a medical specialist trained to perform surgery on the brain and nervous system."
   },
   {
     "question": "What is the surgical removal of the tonsils called?",
     "options": ["Appendectomy", "Tonsillectomy", "Tracheostomy", "Laryngectomy"],
-    "answer": "Tonsillectomy"
+    "answer": "Tonsillectomy",
+    "explanation": "A tonsillectomy is the surgical removal of the tonsils, usually due to chronic infection or enlargement."
   },
   {
     "question": "What is the purpose of using anesthesia?",
     "options": ["Increase pain", "Cause infection", "Prevent bleeding", "Prevent pain"],
-    "answer": "Prevent pain"
+    "answer": "Prevent pain",
+    "explanation": "Anesthesia is used to block pain sensation, ensuring the patient does not feel pain during surgery."
   },
   {
     "question": "What does the term 'laparotomy' refer to?",
     "options": ["Removal of the spleen", "Incision into the abdomen", "Examination of the lungs", "Brain biopsy"],
-    "answer": "Incision into the abdomen"
+    "answer": "Incision into the abdomen",
+    "explanation": "A laparotomy is a surgical procedure involving a large incision into the abdomen to access internal organs."
   },
   {
     "question": "Which type of suture dissolves in the body over time?",
     "options": ["Staples", "Nylon", "Silk", "Absorbable"],
-    "answer": "Absorbable"
+    "answer": "Absorbable",
+    "explanation": "Absorbable sutures are designed to break down naturally in the body, eliminating the need for removal."
   },
   {
     "question": "What is a Foley catheter used for?",
     "options": ["Administering anesthesia", "Draining urine", "Injecting contrast", "Closing wounds"],
-    "answer": "Draining urine"
+    "answer": "Draining urine",
+    "explanation": "A Foley catheter is a flexible tube used to drain urine from the bladder, often during or after surgery."
   },
   {
     "question": "What is a common antiseptic used before surgery?",
     "options": ["Chlorhexidine", "Saline", "Alcohol", "Lidocaine"],
-    "answer": "Chlorhexidine"
+    "answer": "Chlorhexidine",
+    "explanation": "Chlorhexidine is commonly used to clean the skin before surgery because it effectively kills bacteria."
   }
 ]
+

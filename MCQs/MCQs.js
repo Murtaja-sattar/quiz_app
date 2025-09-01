@@ -3,15 +3,20 @@ fetch("MCQs.json")
 .then(data => {
     let current  = 0;
 
+    const openBtn = document.getElementById("openNotes")
+    const closeBtn = document.getElementById("closeNotes")
+    const panel = document.getElementById("panel")
+
     function showQuestion(q){
         document.getElementById("question").textContent = q.question
+        document.getElementById("note").textContent = q.explanation
 
         let answered = false
         
         const options = document.getElementById("options");
-        options.innerHTML = '';+
+        options.innerHTML = '';
         
-        
+        openBtn.disabled = true
 
         q.options.forEach(option => {
             const li = document.createElement("li")
@@ -23,6 +28,8 @@ fetch("MCQs.json")
                 }
 
                 answered = true
+                openBtn.disabled = false
+
                 if (option === q.answer){
                     li.style.backgroundColor = "rgba(90, 189, 19, 1)"
                 }
@@ -40,6 +47,7 @@ fetch("MCQs.json")
             }
             options.appendChild(li)
         })
+        
     }
     qNumber()
 
@@ -73,7 +81,19 @@ fetch("MCQs.json")
         showQuestion(data[current])
     }
 
+    function displayNotes(){
+        openBtn.onclick = () => {
+            if (openBtn.disabled) return
+            panel.style.display = 'flex'
+        }
+
+        closeBtn.onclick = () => {
+            panel.style.display = 'none'
+        }
+    }
+
     nextQ()
     prevQ()
     showQuestion(data[current])
+    displayNotes()
 })
